@@ -1,2 +1,2 @@
-# TrexRunner
-The Trex game has the reset button and kind of mimics the real game with bugs
+# Trex-Runner
+The Trex game is finally finished and the game resets as when the gamestate changes to end back to play.
